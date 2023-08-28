@@ -1,0 +1,84 @@
+[
+    {
+        "id": "0",
+        
+        "name": "Gyro Sandwhic",
+        
+        "price": 20,
+       
+        
+        "ratings": "4.5",
+        
+        
+        "img": "https://img.freepik.com/free-photo/side-view-chicken-sandwich-bread-with-fries-tomatoes-mushrooms-with-spices_141793-12984.jpg?w=900&t=st=1690546949~exp=1690547549~hmac=d5068aceb1df0f655738c4bf0cea1eae72e9a3c322b57e394671cfa45756a659"
+
+        
+    },
+    {
+        "id": "1",
+        
+        "name": "Cake",
+        
+        "price": 30,
+       
+        "ratings": "4.5",
+        
+       
+        "img": "https://img.freepik.com/free-photo/joyful-birthday-celebration-with-delicious-chocolate-cake-generative-ai_188544-9589.jpg?w=1060&t=st=1690547130~exp=1690547730~hmac=9718440819655a3473567191613976063f1b64de8147d5ea38fc14ce5dc52595"
+        
+    },
+    {
+        "id": "2",
+        
+        "name": "Green Beans",
+        
+        "price": 100,
+       
+        "ratings": "4.5",
+        
+      
+        "img": "https://img.freepik.com/free-photo/variety-fresh-tasty-vegetables-dark-background_1220-4539.jpg?w=900&t=st=1690547349~exp=1690547949~hmac=bb8f3519ef2c2dd44aec42f1396068ba6aae3487861006ebb68e33e89c2cd14f"
+        
+    },
+    {
+        "id": "3",
+        
+        "name": "Chicken Pot Pie",
+        
+        "price": 20,
+       
+        "ratings": "4.5",
+        
+        
+        "img": "https://img.freepik.com/premium-photo/vegetable-dish-with-potatoes-beef-dinner-shepherds-pie_124507-45939.jpg?w=900"
+        
+    },
+    {
+        "id": "4",
+        
+        "name": "Green Salad",
+        
+        "price": 200,
+       
+        "ratings": "4.5",
+        
+       
+        "img": "https://img.freepik.com/premium-photo/dietary-salad-with-tomatoes-feta-lettuce-spinach-pine-nuts-top-view-flat-lay_2829-4864.jpg?w=900"
+        
+    },
+    {
+        "id": "5",
+        
+        "name": "Pizza",
+        
+        "price": 10,
+       
+        "ratings": "4.5",
+        
+        
+        "img": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg?w=1060&t=st=1690547539~exp=1690548139~hmac=5764a147b59ce77698a028411b45ea16be5fecde2d9459973e89d6043cce376b"
+        
+    }
+   
+
+]
